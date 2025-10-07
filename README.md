@@ -1,2 +1,2 @@
 # GFMFR
-a novel multimodal fusion framework for federated recommendation
+Code for paper "Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach".
