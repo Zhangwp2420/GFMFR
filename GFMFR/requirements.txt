@@ -1,5 +1,5 @@
 python==3.9.21
-pytorch==2.0.1
+torch==2.0.1
 pytorch-cuda==11.7
 scikit-learn==1.6.1
 scipy==1.13.1
