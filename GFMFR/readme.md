@@ -1,9 +1,20 @@
-1. Please configure the required environment based on "requirements.txt" first
 
-2. Take FedNCF as backbone, run the code:
+## 🚀 Quick Start
 
+To run the experiments, please follow the steps below:
+
+1. Configure the required environment based on `requirements.txt`:
+
+   ```bash
+   pip install -r requirements.txt
    
-   python train.py --model='mmfedncf' --dataset='Tools_and_Home'  
+2. Create a log directory:
+   
+   ```bash
+   mkdir -p log
 
-
-Other detailed parameters can be found in the file 'train.py'
+3. Take FedNCF as backbone and run the training script:
+   
+   ```bash
+   python train.py --model='mmfedncf' --dataset='Tools_and_Home'
+   
