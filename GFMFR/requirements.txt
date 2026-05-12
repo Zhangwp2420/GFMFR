@@ -1,0 +1,9 @@
+python==3.9.21
+pytorch==2.0.1
+pytorch-cuda==11.7
+scikit-learn==1.6.1
+scipy==1.13.1
+torchaudio==2.0.2
+torchtriton==2.0.0
+torchvision==0.15.2
+pandas==2.2.3
